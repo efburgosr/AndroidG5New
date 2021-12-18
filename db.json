@@ -1,0 +1,85 @@
+{
+  "lugares" : [
+    
+    {
+      "nombre" : "Panaca",
+      "description" : "Parque temático agropecuario",
+      "detalle" : "Parque  lleno de diversión e interacción con el exterior,onde puedes encontrar 5 espectaculares Shows, 10 Estaciones Temáticasy más de 4.500 animales que forman la colección de zoología doméstica más grande del mundo, donde puedes interactuar y vivir un día lleno de naturaleza y emoción.",
+      "ubicacion" : " Está ubicado en el corazón del eje cafetero de Colombia,exactamente en la vereda Kerman en el municipio de Quimbaya",
+      "horario" : "09:00 AM a 06:00 PM",
+      "telefono": "3106818818",
+      "paginaWeb" : "https://panaca.com.co/",
+      "calificacion" : 3.5,
+      "urlPicture" :  "https://i.imgur.com/wlvq2tz.jpg",
+      "urlDetalle": "https://i.imgur.com/IjTFKEM.jpg",
+      "latitud":  4.6083662,
+     "longitud": -75.829716,
+     "zoom": "15F"
+   },
+   
+   {
+     "nombre" : "Cocora",
+     "description" : "Maravilloso paisaje natural",
+     "detalle": "Es un lugar de belleza natural donde se prestan variadas experiencias de turismo de naturaleza, como: senderismo guiado por guías especializados en la biodiversidad Del Valle de Cocora y sus especies nativas, caminatas en bosques de Niebla con ritual y siembra de La Palma de Cera Árbol Nacional de Colombia, avistamiento de aves y flora y fauna,restaurante de tradición gastronómica",
+     "ubicacion" : "Salento - Quindio, Colombia",
+     "horario" : "08:00 AM a 06:00 PM",
+     "telefono" : "3102275091",
+     "paginaWeb" : "www.valledelcocora.com.co",
+     "calificacion" : 5.0,
+     "urlPicture" :  "https://i.imgur.com/CcabiWl.jpg",
+     "urlDetalle" : "https://i.imgur.com/WJjO1TA.jpg",
+     "latitud":  4.6377173,
+     "longitud": -75.4912587,
+     "zoom": "15F"     
+   },
+
+   {
+     "nombre" : "Parque del café",
+     "description" : "Parque temático del café",
+     "detalle" : "Ubicado en el corazón del Quindío e inmerso en la riqueza natural del Eje Cafetero colombiano se encuentra el Parque del Café;uno de los parques temáticos más importantes de Latinoamérica. ",
+     "ubicacion" : "Km 6 Vía Montenegro. Pueblo Tapao, Quindío, Colombia",
+     "horario" : "09:00 AM a 06:00 PM",
+     "telefono" : "(+57) (6) 7 417 417",
+     "paginaWeb" : "https://parquedelcafe.co/",
+     "calificacion" : 4.3,
+     "urlPicture" :  "https://i.imgur.com/Sc6SyRE.jpg",
+     "urlDetalle" :  "https://i.imgur.com/LUjR6lF.jpg",
+     "latitud":  4.5402852,
+     "longitud": -75.7728368,
+     "zoom": "15F"
+   },
+
+   {
+     "nombre" : "Salento",
+     "description" : "Ciudad andina de colombia",
+     "detalle" : " Es  el municipio mas importante para el turismo en el Quindío, esto debido a tres razones fundamentales. La primera, la bella y conservada arquitectura legada de la colonización antioqueña; la segunda, el imponente valle de Cocora y la tercera, por un ambiente contagioso de paz y bienestar que se impregna inmediatamente se arriba.",
+     "ubicacion" : "Localizado a 26 km de Armenia, en el costado occidental de la cordillera Central y al nororiente del departamento, Salento",
+     "horario" : "06:00 AM a 11:00 PM",
+     "telefono" : "3148302733",
+     "paginaWeb" : "https://www.salento-quindio.gov.co/",
+     "calificacion" : 5.0,
+     "urlPicture" :  "https://i.imgur.com/LUw2rII.jpg",
+     "urlDetalle" : "https://i.imgur.com/hSl2HEt.jpg",
+     "latitud":  4.6373867,
+     "longitud": -75.5751544,
+     "zoom": "15F"
+   },
+
+   {
+     "nombre" : "Recuca",
+     "description" : "Recorrido a la cultura cafetera",
+     "detalle" : "Podrá sumergirse en el verdadero mundo de las Haciendas Cafeteras, y vivir el proceso del café como un recolector o una chapolera (recolectora). Es una mezcla de aprendizaje y diversión. Nuestros visitantes podrán personificar a los recolectores con los verdaderos atuendos campesinos de la región",
+     "ubicacion" : "Vereda Callelarga, municipio de Calarcá",
+     "horario" : "09:00 AM a 04:00 PM",
+     "telefono" : "310 830 3779",
+     "paginaWeb" : "https://www.recuca.com/",
+     "calificacion" : 4.0,
+     "urlPicture" :  "https://i.imgur.com/kXwi5lL.jpg",
+     "urlDetalle" : "https://i.imgur.com/A8A0RCQ.jpg",
+     "latitud":  4.4326908,
+     "longitud": -75.7356568,
+     "zoom": "15F"
+   }   
+      
+  ]
+}

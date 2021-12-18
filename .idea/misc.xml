@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/david/OneDrive/Desktop/Android G5/AndroidG5/sprint_3/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/david/OneDrive/Desktop/Android G5/AndroidG5/sprint_3/app/src/main/res/layout/card_view_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/david/OneDrive/Desktop/Android G5/AndroidG5/sprint_3/app/src/main/res/layout/fragment_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/david/OneDrive/Desktop/Android G5/AndroidG5/sprint_3/app/src/main/res/layout/fragment_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/david/OneDrive/Desktop/Android G5/AndroidG5/sprint_3/app/src/main/res/layout/fragment_notifications.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK" />
+</project>

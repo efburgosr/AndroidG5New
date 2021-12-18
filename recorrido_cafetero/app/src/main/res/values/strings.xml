@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Recorrido Cafetero</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="panaca">Panaca</string>
+    <string name="detalle">Parque  lleno de diversión e interacción con el exterior,      donde puedes encontrar 5 espectaculares Shows, 10 Estaciones Temáticas      y más de 4.500 animales que forman la colección de zoología doméstica más      grande del mundo, donde puedes interactuar y vivir un día lleno de      naturaleza y emoción.</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="direccion">Ubicado en el corazón del eje cafetero de Colombia,      exactamente en la vereda Kerman en el municipio de Quimbaya</string>
+    <string name="telefono">Teléfono</string>
+    <string name="number">57-3106818818</string>
+    <string name="horario">Horario</string>
+    <string name="hora">09:00 AM a 06:00 PM</string>
+    <string name="numero">3106818818</string>
+    <string name="web">https://panaca.com.co</string>
+    <string name="titulo">Panaca</string>
+    <string name="descripcion">Parque temático agropecuario</string>
+
+    <!-- Sync Preferences -->
+    <string name="notification">Notificaciones</string>
+    <string name="sound_notification">Activar Sonido Notificaciones</string>
+    <string name="title_activity_botton">Recorrido Cafetero</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_list">Lista</string>
+    <string name="title_detail">Detalle</string>
+    <string name="title_preference">Notificaciones</string>
+    <string name="vista">Recorrido Cafetero</string>
+    <string name="lugar">Lugares</string>
+    <string name="configuracion">Configuraciones</string>
+</resources>
